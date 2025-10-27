@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <a href="https://lasp.colorado.edu/" target="_blank">
-        <img src="https://lasp.colorado.edu/media/projects/lasp/images/logo/2025/color/lasp.png" width="50%"/>
+        <img src="https://lasp.colorado.edu/media/projects/lasp/images/logo/2025/color/lasp-seal.large.png" width="50%"/>
     </a>
     <h1>Welcome to the LASP <br>GitHub Organization</h1>
     <p>
